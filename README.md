@@ -21,6 +21,7 @@
 [linkedin]: https://www.linkedin.com/in/alperenbirolgulcik/
 [instagram]: https://www.instagram.com/alp_gk
 [discord]: https://discord.gg/457923332180803592
+![](https://visitor-badge.laobi.icu/badge?page_id=TheOsaka.TheOsaka) [![Github](https://img.shields.io/github/followers/TheOsaka?label=Followers&logo=Github)](https://github.com/TheOsaka)
 
 [<img align="left" alt="snazzah.com" width="32px" src="https://api.iconify.design/bi:globe.svg?color=%2300fef4&height=32" />][website]
 [<img align="left" alt="Linkedin" width="32px" src="https://api.iconify.design/mdi:linkedin.svg?color=%2300fef4&height=32" />][linkedin]
