@@ -41,7 +41,7 @@
 
 <br/>  
 
-<div align="center"><img src="https://spotify-github-profile.vercel.app/api/view?uid=TheOsaka&cover_image=true&theme=default&bar_color=53b14f&bar_color_cover=false" /></div>
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=gzcwk8nwwca5rfd0lwowwan73&cover_image=false&theme=default&show_offline=false&background_color=290027&bar_color=ddfa00&bar_color_cover=false)](https://spotify-github-profile.vercel.app/api/view?uid=gzcwk8nwwca5rfd0lwowwan73&redirect=true)
 
 <br/> 
 
