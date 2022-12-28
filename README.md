@@ -46,7 +46,11 @@
 ---
 
 <br>
+
+
 ![](https://visitor-badge.laobi.icu/badge?page_id=TheOsaka.TheOsaka) [![Github](https://img.shields.io/github/followers/TheOsaka?label=Followers&logo=Github)](https://github.com/TheOsaka)
+
+
 </br>
 
 <h3 align="left">Languages and Tools:</h3>
