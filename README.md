@@ -28,7 +28,7 @@
 [<img align="left" alt="Instagram" width="32px" src="https://api.iconify.design/mdi:instagram.svg?color=%2300fef4&height=32" />][instagram]
 [<img align="left" alt="Discord" width="32px" src="https://api.iconify.design/mdi:discord.svg?color=%2300fef4&height=32" />][discord]
 
----
+
 
 <p align="center">
 <br>
@@ -40,7 +40,7 @@
 ---
 <br>
 
-<p align="center>
+<p align="center">
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=gzcwk8nwwca5rfd0lwowwan73&cover_image=false&theme=default&show_offline=false&background_color=290027&bar_color=ddfa00&bar_color_cover=false)](https://spotify-github-profile.vercel.app/api/view?uid=gzcwk8nwwca5rfd0lwowwan73&redirect=true)
   </p>
 
