@@ -41,7 +41,7 @@
 
 <br/>  
 
-<div align="center"><img src="https://spotify-github-profile.vercel.app/api/view?uid=gzcwk8nwwca5rfd0lwowwan73&cover_image=true&theme=default&bar_color=53b14f&bar_color_cover=false" /></div>
+<div align="center"><img src="https://spotify-github-profile.vercel.app/api/view?uid=TheOsaka&cover_image=true&theme=default&bar_color=53b14f&bar_color_cover=false" /></div>
 
 <br/> 
 
