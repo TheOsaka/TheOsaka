@@ -46,7 +46,7 @@
 ---
 
 <br>
-![](https://visitor-badge.laobi.icu/badge?page_id=jokerinya.jokerinya) [![Github](https://img.shields.io/github/followers/jokerinya?label=Followers&logo=Github)](https://github.com/jokerinya)
+![](https://visitor-badge.laobi.icu/badge?page_id=TheOsaka.TheOsaka) [![Github](https://img.shields.io/github/followers/TheOsaka?label=Followers&logo=Github)](https://github.com/jokerinya)
 </br>
 
 <h3 align="left">Languages and Tools:</h3>
