@@ -28,7 +28,6 @@
 [<img align="left" alt="Instagram" width="32px" src="https://api.iconify.design/mdi:instagram.svg?color=%2300fef4&height=32" />][instagram]
 [<img align="left" alt="Discord" width="32px" src="https://api.iconify.design/mdi:discord.svg?color=%2300fef4&height=32" />][discord]
 
-<br /><br />
 ---
 
 <p align="center">
@@ -37,6 +36,14 @@
         <img src="https://lanyard.cnrad.dev/api/457923332180803592?idleMessage=%22May%20The%20Code%20Be%20With%20you%22&borderRadius=25px" />
     </a>
 </p>
+
+---
+
+<br/>  
+
+<div align="center"><img src="https://spotify-github-profile.vercel.app/api/view?uid=gzcwk8nwwca5rfd0lwowwan73&cover_image=true&theme=default&bar_color=53b14f&bar_color_cover=false" /></div>  
+
+<br/> 
 
 <br/>  
 
