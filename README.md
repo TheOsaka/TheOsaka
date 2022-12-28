@@ -21,14 +21,14 @@
 [linkedin]: https://www.linkedin.com/in/alperenbirolgulcik/
 [instagram]: https://www.instagram.com/alp_gk
 [discord]: https://discord.gg/457923332180803592
-![](https://visitor-badge.laobi.icu/badge?page_id=TheOsaka.TheOsaka) [![Github](https://img.shields.io/github/followers/TheOsaka?label=Followers&logo=Github)](https://github.com/TheOsaka)
 
 [<img align="left" alt="snazzah.com" width="32px" src="https://api.iconify.design/bi:globe.svg?color=%2300fef4&height=32" />][website]
 [<img align="left" alt="Linkedin" width="32px" src="https://api.iconify.design/mdi:linkedin.svg?color=%2300fef4&height=32" />][linkedin]
 [<img align="left" alt="Instagram" width="32px" src="https://api.iconify.design/mdi:instagram.svg?color=%2300fef4&height=32" />][instagram]
 [<img align="left" alt="Discord" width="32px" src="https://api.iconify.design/mdi:discord.svg?color=%2300fef4&height=32" />][discord]
 
-
+<br /><br />
+---
 
 <p align="center">
 <br>
@@ -36,13 +36,6 @@
         <img src="https://lanyard.cnrad.dev/api/457923332180803592?idleMessage=%22May%20The%20Code%20Be%20With%20you%22&borderRadius=25px" />
     </a>
 </p>
-
----
-<br>
-
-<p align="center">
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=gzcwk8nwwca5rfd0lwowwan73&cover_image=false&theme=default&show_offline=false&background_color=290027&bar_color=ddfa00&bar_color_cover=false)](https://spotify-github-profile.vercel.app/api/view?uid=gzcwk8nwwca5rfd0lwowwan73&redirect=true)
-  </p>
 
 <br/>  
 
